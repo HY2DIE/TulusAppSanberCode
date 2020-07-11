@@ -1,0 +1,13 @@
+a, li{
+    padding:0 50px;
+    margin: 25px;
+    text-decoration: none;
+    color: blue;
+    font-size: 22px;
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+
+li{
+    text-decoration-style: none;
+}

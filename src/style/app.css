@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    padding:0;
+    text-align: center;
+    justify-content: center;
+    text-justify: auto;
+}
+
+.container{
+    margin: auto;
+    width: 1000px;
+    
+}
+
